@@ -1,4 +1,4 @@
-# STARTER-AlexPeroulas
+# jpa01-AlexPeroulas
 
 Deployed at: https://jpa01-alexperoulas.dokku-13.cs.ucsb.edu/
 
